@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do meu cartão de visita online! Este é um site simples, em formato de cartão de visita, projetado com ênfase no uso em dispositivos móveis. Utilizei HTML e CSS para criar uma experiência minimalista e eficaz.
 
 <p align="center">
-    <img src="" alt="Imagem do Projeto">
+    <img src="./assets/cartao_online.png" alt="Imagem do Projeto">
 </p>
 
 ## Acesso Rápido
