@@ -8,7 +8,7 @@ Bem-vindo ao repositório do meu cartão de visita online! Este é um site simpl
 
 ## Acesso Rápido
 
-Visite meu cartão de visita online [aqui]([https://www.meuscontatos.netlify.app](https://meuscontatos.netlify.app/)).
+Visite meu cartão de visita online - https://meuscontatos.netlify.app/
 
 ## Recursos
 
@@ -18,7 +18,7 @@ Visite meu cartão de visita online [aqui]([https://www.meuscontatos.netlify.app
 
 ## LinkedIn
 
-Conecte-se comigo no LinkedIn [aqui]([https://www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/tiago-grillo-lermy/)).
+Conecte-se comigo no LinkedIn - https://www.linkedin.com/in/tiago-grillo-lermy/
 
 ## Pré-requisitos
 
